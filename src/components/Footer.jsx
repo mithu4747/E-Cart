@@ -41,7 +41,7 @@ function Footer() {
     </div>
 
 </div>
-<p style={{color:'white'}}>Copyright © 2023 Media Player. Built with React.</p>
+<p style={{color:'white'}}>Copyright © 2023 E-Cart. Built with React.</p>
     </div>
   )
 }
